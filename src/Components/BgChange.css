@@ -1,0 +1,54 @@
+.Background__one {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background: url("https://images.unsplash.com/photo-1545593169-527754e9edd3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80");
+}
+
+.Background__two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background: url("https://images.unsplash.com/photo-1626171617945-2067f6c577b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+}
+
+.Background__two h1 {
+  font-size: 50px;
+}
+
+.Background__two button {
+  padding: 10px;
+  width: 10vw;
+  background: none;
+  border-radius: 50px;
+}
+
+.Background__two button:hover {
+  color: white;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Background__one h1 {
+  font-size: 50px;
+}
+
+.Background__one button {
+  padding: 10px;
+  width: 10vw;
+  background: none;
+  border-radius: 50px;
+}
+
+.Background__one button:hover {
+  color: white;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
